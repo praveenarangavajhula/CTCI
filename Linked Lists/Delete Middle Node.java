@@ -17,6 +17,8 @@ boolean delete(LinkedListNode n)
 	n.data=n.next.data;
 	n.next=n.next.next;
 	return true;
+
+	// O(1)
 }
 
 
