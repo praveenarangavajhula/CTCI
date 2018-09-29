@@ -23,3 +23,5 @@ LinkedListNode returnkth(LinkedListNode head,k)
 	// Time - O(N)  
 	// Space - O(1)
 }
+
+// When p1 hits the null or the end of the linked list,p2 is at the kth node from the last
