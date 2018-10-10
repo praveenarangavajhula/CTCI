@@ -1,0 +1,14 @@
+class Soltuion
+{
+  public void swap(int a,int b)
+  {
+  //a=9 b=5
+  a=a-b; // a=4
+  b=b+a; // b=9
+  a=b-a; // a=5
+  
+  System.out.println(a+" "+b);
+
+  
+  }
+}
